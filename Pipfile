@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 django = "*"
 pillow = "*"
+celery = "==4.4.2"
+install = "*"
+braintree = "==3.59.0"
 
 [requires]
 python_version = "3.8"
