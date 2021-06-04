@@ -11,6 +11,7 @@ pillow = "*"
 celery = "==4.4.2"
 install = "*"
 braintree = "==3.59.0"
+weasyprint = "==51"
 
 [requires]
 python_version = "3.8"
