@@ -13,6 +13,7 @@ install = "*"
 braintree = "==3.59.0"
 weasyprint = "==51"
 flower = "==0.9.3"
+django-rosetta = "==0.9.3"
 
 [requires]
 python_version = "3.8"

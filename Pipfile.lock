@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0432af5061197e38a9570f5fd487998c889f2baf17ec89605dc9fa200275eed9"
+            "sha256": "b95c327bfba6cf8c2dc5b5e102639316bb1f57264893f534d661ab9f0c567fce"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -171,6 +171,14 @@
             "index": "pypi",
             "version": "==3.2.4"
         },
+        "django-rosetta": {
+            "hashes": [
+                "sha256:64b800ee505319dd046b08dd3842c9d3d7f1b1c1ef6ec1f2d06e37abcde1e8b9",
+                "sha256:bbfb9519fd5dc7c53fade5d51651dd13f5acb9545df791782cd3bb09db009ac6"
+            ],
+            "index": "pypi",
+            "version": "==0.9.3"
+        },
         "flower": {
             "hashes": [
                 "sha256:7f45acb297ab7cf3dd40140816143a2588f6938dbd70b8c46b59c7d8d1e93d55"
@@ -249,6 +257,13 @@
             ],
             "index": "pypi",
             "version": "==8.2.0"
+        },
+        "polib": {
+            "hashes": [
+                "sha256:d3ee85e0c6788f789353416b1612c6c92d75fe6ccfac0029711974d6abd0f86d",
+                "sha256:e02c355ae5e054912e3b0d16febc56510eff7e49d60bf22aecb463bd2f2a2dfa"
+            ],
+            "version": "==1.1.1"
         },
         "pycparser": {
             "hashes": [
